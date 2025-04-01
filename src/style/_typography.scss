@@ -1,0 +1,29 @@
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 34px;
+  text-align: center;
+}
+
+.main-font {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.main-m-font {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+}
+
+@media (min-width: 768px) {
+  .title {
+    font-size: 32px;
+    line-height: 38px;
+  }
+}
