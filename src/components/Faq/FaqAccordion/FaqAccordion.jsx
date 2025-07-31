@@ -9,7 +9,7 @@ export default function FaqAccordion({ title, answer }) {
         <div className="accordion-title">{title}</div>
         <img
           className={`accordion-icon ${isActive ? "rotate" : ""}`}
-          src="/weather-app/public/images/arrow-up1.svg"
+          src="/weather-app/images/arrow-up1.svg"
           alt="Toggle"
         />
       </div>
