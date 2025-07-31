@@ -1,25 +1,25 @@
 [
     {
         "id":1,
-        "src":"./images/New-york.png",
+        "src":"/weather-app/images/New-york.png",
         "alt":"New York City photo",
         "text":"New York"
       },
       {
         "id":2,
-        "src":"./images/london.png",
+        "src":"/weather-app/images/london.png",
         "alt":"London City photo",
         "text":"London"
       },
       {
         "id":3,
-        "src":"./images/dubai.png",
+        "src":"/weather-app/images/dubai.png",
         "alt":"Dubai City photo",
         "text":"Dubai"
       },
       {
         "id":4,
-        "src":"./images/paris.png",
+        "src":"/weather-app/images/paris.png",
         "alt":"Paris City photo",
         "text":"Paris"
       }

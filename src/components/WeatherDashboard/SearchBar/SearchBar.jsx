@@ -25,7 +25,7 @@ export default function SearchBar({ city, onCityChange, onSearch }) {
       <button className="search-button" onClick={handleSearch}>
         <img
           className="icon"
-          src="../../../../public/images/loupe 1.svg"
+          src="/weather-app/images/loupe 1.svg"
           alt="search"
         />
       </button>
