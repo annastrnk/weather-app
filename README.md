@@ -13,6 +13,6 @@ A simple and responsive weather application built with **React**, using the **Op
 - **Vite** – Fast frontend tooling
 - **Axios** – HTTP client for API calls
 - **React Icons** – For clean and scalable icons
-- **SASS** – Styling (if used in components)
+- **SASS** – Styling
 - **ESLint** – Code linting and formatting
 - **GitHub Pages** – For deployment
